@@ -1,0 +1,9 @@
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\bin\Debug\Project Euler Windows.exe.config
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\obj\Debug\Project Euler Windows.csprojResolveAssemblyReference.cache
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\obj\Debug\Project_Euler_Windows.Form1.resources
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\obj\Debug\Project_Euler_Windows.Properties.Resources.resources
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\obj\Debug\Project Euler Windows.csproj.GenerateResource.Cache
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\bin\Debug\Project Euler Windows.exe
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\bin\Debug\Project Euler Windows.pdb
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\obj\Debug\Project Euler Windows.exe
+c:\users\garry\documents\visual studio 2015\Projects\Project Euler Windows\Project Euler Windows\obj\Debug\Project Euler Windows.pdb
